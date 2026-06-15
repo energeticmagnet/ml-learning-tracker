@@ -1,16 +1,25 @@
-# React + Vite
+# 🤖 ML Learning Tracker — 180 дней до Machine Learning
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Персональный трекер пути в Machine Learning от Python до деплоя нейросетей.
 
-Currently, two official plugins are available:
+## Что делает
+- Показывает общий прогресс по 46 модулям
+- Разбивает путь на 4 фазы обучения
+- Отслеживает выполнение каждого шага
+- Содержит подборку бесплатных ресурсов
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Фазы обучения
+- 🔥 Фаза 1 (дни 1–30): Фундамент — 10 модулей
+- ⚙️ Фаза 2 (дни 31–90): Классический ML — 14 модулей
+- 🧠 Фаза 3 (дни 91–140): Deep Learning — 12 модулей
+- 🚀 Фаза 4 (дни 141–180): Специализация — 10 модулей
 
-## React Compiler
+## Стек
+React · Vite · JavaScript · CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Демо
+https://ml-plan.vercel.app
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Автор
+Екатерина Фомина — AI Content & Automation Specialist
+https://summer-cafe-376.notion.site/AI-Content-Automation-Specialist
